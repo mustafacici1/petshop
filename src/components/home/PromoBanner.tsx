@@ -1,6 +1,5 @@
 import { ButtonLink } from "../ui/Button";
 import { useReveal } from "../../hooks/useReveal";
-import { photo } from "../../lib/photos";
 import "./home.css";
 
 export function PromoBanner() {

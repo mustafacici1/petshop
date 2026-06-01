@@ -2,7 +2,6 @@ import { ButtonLink } from "../components/ui/Button";
 import { Icon } from "../components/ui/Icon";
 import type { IconName } from "../components/ui/Icon";
 import { useReveal } from "../hooks/useReveal";
-import { photo } from "../lib/photos";
 import "./content-page.css";
 
 const values: { icon: IconName; title: string; text: string }[] = [
